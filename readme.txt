@@ -1,4 +1,4 @@
-Export/Import Tool for OpenCart 1.5.5.x
+Export/Import Tool for OpenCart 1.5.6.x
 =======================================
 
 The Import/Export Tool allows the admin user to do a bulk export
@@ -103,7 +103,7 @@ on their check boxes.
 Further help and customized versions
 ====================================
 
-This tool has been successfully tested for a standard OpenCart 1.5.5.x.
+This tool has been successfully tested for a standard OpenCart 1.5.6.x.
 Don't use other Opencart versions with this module.
 
 If you need a customized version of the Export/Import Tool,
